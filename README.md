@@ -1,4 +1,4 @@
-# Projeto 4 — DCGAN aplicado ao CelebA
+# Projeto 4  DCGAN aplicado ao CelebA
 
 Trabalho da disciplina de Deep Learning. A proposta era pegar o exemplo clássico de DCGAN feito no MNIST (dígitos 28×28 em escala de cinza) e adaptar para algo mais desafiador: gerar **rostos humanos coloridos** a partir do dataset CelebA.
 
